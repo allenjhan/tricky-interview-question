@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/tricky-interview-question_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$MyList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$MyList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GeneralFlatMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/tricky-interview-question/target/scala-2.13/classes/GeneralFlatMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
